@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="user_avater_size">24.0dip</dimen>
+    <dimen name="comment_floor_padding">16.0dip</dimen>
+    <dimen name="comment_floor_normal_num">11.0sp</dimen>
+    <dimen name="comment_floor_username">13.0sp</dimen>
+    <dimen name="comment_floor_content">17.0sp</dimen>
+    <dimen name="comment_floor_lineSpacing">3.0dip</dimen>
+    
+    <dimen name="comment_sub_floor_padding">10.0dip</dimen>
+</resources>

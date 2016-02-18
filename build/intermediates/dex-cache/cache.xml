@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\FloorView\libs\prettytime-3.2.4.Final.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="afc21134bb196cd3b7a28026706d7d351561cfc5">
+        <dex dex="E:\FloorView\build\intermediates\pre-dexed\debug\prettytime-3.2.4.Final-390e4e80b58671ad47f6c00301848559854d96b0.jar" />
+    </item>
+    <item
+        jar="E:\FloorView\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="E:\FloorView\build\intermediates\pre-dexed\debug\android-support-v4-e6389ad795c9f3cafe658732852be4369ec89cfe.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="floor_divider">false</item>
+    <item type="id" name="floor_avater">false</item>
+    <item type="id" name="floor_date">false</item>
+    <item type="id" name="floor_username">false</item>
+    <item type="id" name="floor_content">false</item>
+    <item type="id" name="sub_floors">false</item>
+    <item type="id" name="show_sub_floor_content">false</item>
+    <item type="id" name="sub_floor_num">false</item>
+    <item type="id" name="sub_floor_username">false</item>
+    <item type="id" name="sub_floor_content">false</item>
+    <item type="id" name="hide_sub_floor_content">false</item>
+    <item type="id" name="hide_text">false</item>
+    <item type="id" name="hide_pb">false</item>
+</resources>

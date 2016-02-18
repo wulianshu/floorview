@@ -1,0 +1,47 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+    <style name="base_small_progressbar_style">
+        <item name="android:maxWidth">18.0dip</item>
+        <item name="android:maxHeight">18.0dip</item>
+        <item name="android:minWidth">18.0dip</item>
+        <item name="android:minHeight">18.0dip</item>
+        <item name="android:indeterminateDrawable">@anim/base_loading_small_anim</item>
+    </style>
+    
+    <style name="comment_floor_date_style">
+        <item name="android:textSize">@dimen/comment_floor_normal_num</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/comment_floor_date</item>
+    </style>
+    <style name="comment_floor_username_style">
+        <item name="android:textSize">@dimen/comment_floor_username</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/comment_floor_username</item>
+    </style>
+    <style name="comment_floor_content_style">
+        <item name="android:textSize">@dimen/comment_floor_content</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/comment_floor_content</item>
+        <item name="android:lineSpacingExtra">@dimen/comment_floor_lineSpacing</item>
+    </style>
+</resources>
